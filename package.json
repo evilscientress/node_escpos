@@ -1,0 +1,19 @@
+{
+  "name": "escpos",
+  "version": "0.0.1",
+  "description": "nodejs ESC/POS Library",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/masterbase/node_escpos.git"
+  },
+  "author": "Jenny Danzmayr",
+  "license": "MIT",
+  "dependencies": {
+    "concentrate": "^0.2.3",
+    "iconv-lite": "^0.4.13"
+  }
+}
